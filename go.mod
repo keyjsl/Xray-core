@@ -1,6 +1,6 @@
 module github.com/xtls/xray-core
 
-go 1.19
+go 1.20
 
 require (
 	github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344
@@ -11,7 +11,7 @@ require (
 	github.com/miekg/dns v1.1.50
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pires/go-proxyproto v0.6.2
-	github.com/quic-go/quic-go v0.33.0
+	github.com/quic-go/qtls-go1-19 v0.2.1
 	github.com/refraction-networking/utls v1.2.2
 	github.com/sagernet/sing v0.1.7
 	github.com/sagernet/sing-shadowsocks v0.1.1
